@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/barenjung/static/css/main.d0ddfe44.chunk.css",
+    "main.js": "/barenjung/static/js/main.7c7daf6a.chunk.js",
+    "main.js.map": "/barenjung/static/js/main.7c7daf6a.chunk.js.map",
+    "runtime-main.js": "/barenjung/static/js/runtime-main.398e355a.js",
+    "runtime-main.js.map": "/barenjung/static/js/runtime-main.398e355a.js.map",
+    "static/js/2.1a065810.chunk.js": "/barenjung/static/js/2.1a065810.chunk.js",
+    "static/js/2.1a065810.chunk.js.map": "/barenjung/static/js/2.1a065810.chunk.js.map",
+    "index.html": "/barenjung/index.html",
+    "precache-manifest.de4e9c6855be69503ab8a3643f278e91.js": "/barenjung/precache-manifest.de4e9c6855be69503ab8a3643f278e91.js",
+    "service-worker.js": "/barenjung/service-worker.js",
+    "static/css/main.d0ddfe44.chunk.css.map": "/barenjung/static/css/main.d0ddfe44.chunk.css.map",
+    "static/js/2.1a065810.chunk.js.LICENSE.txt": "/barenjung/static/js/2.1a065810.chunk.js.LICENSE.txt",
+    "static/media/01.jpg": "/barenjung/static/media/01.787b7e58.jpg",
+    "static/media/02.jpg": "/barenjung/static/media/02.b199c83a.jpg",
+    "static/media/03.jpg": "/barenjung/static/media/03.be7b1f74.jpg",
+    "static/media/04.jpg": "/barenjung/static/media/04.124478a2.jpg",
+    "static/media/05.jpg": "/barenjung/static/media/05.9a36b4ec.jpg",
+    "static/media/06.jpg": "/barenjung/static/media/06.04d6e4cd.jpg",
+    "static/media/07.jpg": "/barenjung/static/media/07.ab0c1f28.jpg",
+    "static/media/08.jpg": "/barenjung/static/media/08.fb415f3e.jpg",
+    "static/media/09.jpg": "/barenjung/static/media/09.3ecf2569.jpg",
+    "static/media/baren02.jpg": "/barenjung/static/media/baren02.3f619209.jpg",
+    "static/media/baren0201.jpg": "/barenjung/static/media/baren0201.cd18775f.jpg",
+    "static/media/baren0301.jpg": "/barenjung/static/media/baren0301.e306d283.jpg",
+    "static/media/baren0302.jpg": "/barenjung/static/media/baren0302.b2f5f453.jpg",
+    "static/media/bj01.jpg": "/barenjung/static/media/bj01.04d6e4cd.jpg",
+    "static/media/chief.jpg": "/barenjung/static/media/chief.abe17320.jpg",
+    "static/media/locationSection.jpg": "/barenjung/static/media/locationSection.9d9b707a.jpg",
+    "static/media/logoFull.png": "/barenjung/static/media/logoFull.99ab8677.png",
+    "static/media/slide5.jpg": "/barenjung/static/media/slide5.bd051314.jpg",
+    "static/media/system1.jpg": "/barenjung/static/media/system1.0e4c2edc.jpg",
+    "static/media/system2.jpg": "/barenjung/static/media/system2.2c17620f.jpg",
+    "static/media/system3.jpg": "/barenjung/static/media/system3.26b30873.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.398e355a.js",
+    "static/js/2.1a065810.chunk.js",
+    "static/css/main.d0ddfe44.chunk.css",
+    "static/js/main.7c7daf6a.chunk.js"
+  ]
+}
